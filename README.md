@@ -1,2 +1,15 @@
-# Qiankun_React_demo
-跟着教程实现qiankun 和 react
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
